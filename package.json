@@ -23,7 +23,7 @@
     "@grammyjs/runner": "2.0.3",
     "drizzle-orm": "0.45.2",
     "grammy": "1.46.0",
-    "minizod": "0.2.0"
+    "minizod": "0.2.1"
   },
   "devDependencies": {
     "@gameroman/config": "0.2.9",
